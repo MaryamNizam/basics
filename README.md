@@ -1,2 +1,2 @@
 # basics
-basic of c++ programming
+basics of c++ programming
