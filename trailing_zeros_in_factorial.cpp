@@ -1,3 +1,4 @@
+// calculate the number of trailing zeros in factorial of a number
 #include <iostream>
 using namespace std;
 int main(){
